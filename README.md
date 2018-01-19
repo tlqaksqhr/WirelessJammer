@@ -1,4 +1,6 @@
 # WirelessJammer
-# WirelessJammer
-# WirelessJammer
-# WirelessJammer
+
+Dependancy:
+  - redox
+  - libtins
+  - flask
